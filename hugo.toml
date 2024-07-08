@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nickthien-my.github.io/dynamictoastmasters'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Dynamic Toastmasters'
 theme = 'Agnes'
