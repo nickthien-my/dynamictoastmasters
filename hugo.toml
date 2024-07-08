@@ -1,4 +1,4 @@
 baseURL = 'https://nickthien-my.github.io/dynamictoastmasters'
 languageCode = 'en-us'
 title = 'Dynamic Toastmasters'
-theme = 'Agnes'
+theme = 'ananke'
