@@ -11,4 +11,10 @@ Plans that will be going into effect immediately with the creation of multiple n
 
 
 ## Incoming Committee Members
-**President of Public Relations:** Nicholas Thien
+President: Melinda Chin
+VPE: Nickey Teoh
+VPM: Sandy Tadete
+VPPR: Nicholas Thien
+Treasurer: Mandy Tang
+Secretary: Shirley Sedah
+SAA: Alfaro Junior
