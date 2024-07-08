@@ -1,6 +1,6 @@
 +++
 title = 'Introducing the New AGMs for 2024-2025!'
-date = 2024-07-01T190000+0800
+date = 2024-07-01T19:00:00+0800
 +++
 
 Last weekend, the Dynamic Toastmasters Committee held their annual general meeting (AGM). The meeting was not only filled with bittersweet moments as outgoing AGM committee members reminisce on their duties over the past year but a palbable excitement as well as plans for the following year were outlined.
